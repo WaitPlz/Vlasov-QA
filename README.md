@@ -1,6 +1,4 @@
 # <p align=center> Власов Никита <br/> QA Engineer
-
-## <p align=center> Связь со мной
 [![TG](https://img.shields.io/badge/Telegram-VVhatever1-1B92CE?style=for-the-badge)](https://t.me/VVhatever1)
 [![Mail](https://img.shields.io/badge/Почта-uninikita@mail.ru-0077FF?style=for-the-badge)](mailto:uninikita@mail.ru)
 
